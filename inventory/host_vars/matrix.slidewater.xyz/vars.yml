@@ -60,3 +60,4 @@ postgres_connection_password: 'DXBYlf8Ge36foH0q9ynVn8D4R87bqFCcAAToGD0JNFr0XIvCZ
 # Example: `matrix_coturn_turn_external_ip_addresses: ['1.2.3.4', '4.5.6.7']`
 #
 # matrix_coturn_turn_external_ip_address: ''
+matrix_static_files_container_labels_base_domain_enabled: true
